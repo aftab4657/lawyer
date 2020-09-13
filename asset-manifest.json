@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lawyer/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/lawyer/static/js/main.143040a0.chunk.js",
+    "main.js.map": "/lawyer/static/js/main.143040a0.chunk.js.map",
+    "runtime-main.js": "/lawyer/static/js/runtime-main.dcd8f4f6.js",
+    "runtime-main.js.map": "/lawyer/static/js/runtime-main.dcd8f4f6.js.map",
+    "static/js/2.155cf698.chunk.js": "/lawyer/static/js/2.155cf698.chunk.js",
+    "static/js/2.155cf698.chunk.js.map": "/lawyer/static/js/2.155cf698.chunk.js.map",
+    "index.html": "/lawyer/index.html",
+    "precache-manifest.6ef6bda5cde12d578d540deaa050dab4.js": "/lawyer/precache-manifest.6ef6bda5cde12d578d540deaa050dab4.js",
+    "service-worker.js": "/lawyer/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/lawyer/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.155cf698.chunk.js.LICENSE.txt": "/lawyer/static/js/2.155cf698.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcd8f4f6.js",
+    "static/js/2.155cf698.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.143040a0.chunk.js"
+  ]
+}
